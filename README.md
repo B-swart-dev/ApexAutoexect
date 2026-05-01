@@ -8,6 +8,7 @@ During peak competitive play, advanced techniques like tap-strafing and custom k
 
 The goal of this application was to provide a fast, user-friendly interface to generate and customize autoexec files without needing to manually write configurations when changing between AutoExec config files. 
 
+****
 ### 🖼️ Layout Of Program
 <img width="953" height="526" alt="image" src="https://github.com/user-attachments/assets/7c16c205-4f0f-4ab0-9f31-542d95ed0dba" />
 
